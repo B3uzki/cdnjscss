@@ -1,0 +1,16 @@
+/*
+	Free for personal and commercial use under the CCA 3.0 license
+	您需要遵循以下条件:
+	姓名標示 - 相同方式分享 - 不得增加額外限制
+	CC BY-SA 4.0
+*/
+
+/* Loader */
+
+	body.landing.is-preload:before {
+		display: none;
+	}
+
+	body.landing.is-preload:after {
+		display: none;
+	}
